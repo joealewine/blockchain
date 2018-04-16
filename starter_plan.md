@@ -15,7 +15,7 @@ lastupdated: "2018-03-16"
 # About Starter Plan
 {: #overview}
 
-{{site.data.keyword.blockchainfull}} Platform is an entry level option that enables organizations to simulate multi-organization blockchain networks, quickly develop applications, and work with supplied examples. It also boasts the same UI experience as other membership options, helping to eliminate any learning curve. 
+{{site.data.keyword.blockchainfull}} Platform Starter Plan is an entry level option that enables organizations to simulate multi-organization blockchain networks, quickly develop applications, and work with supplied examples. It also boasts the same UI experience as other membership options, helping to eliminate any learning curve.
 {:shortdesc}
 
 **Note**: {{site.data.keyword.blockchainfull_notm}} Platform Starter Plan is a development and testing environment. If you need a production environment, see [About Enterprise Plan](enterprise_plan.html).
@@ -27,7 +27,7 @@ Sign up for your [{{site.data.keyword.blockchainfull_notm}} membership ![Externa
 
 If you fit into one of the following situations, the Starter Plan is suitable for you to start your blockchain journey.
 - **_Learn {{site.data.keyword.blockchainfull_notm}} Platform._**  
-    If you are curious about {{site.data.keyword.blockchainfull_notm}} Platform or even new to blockchain, Starter Plan offers you a great way to learn how to develop and govern a real blockchain network. You can find the components that a network consists of, learn how to deploy and manage chaincode (also known as "smart contracts"), how to add channels (and to manage channel permissions), and track when a new block is generated, just as in a production network. 
+    If you are curious about {{site.data.keyword.blockchainfull_notm}} Platform or even new to blockchain, Starter Plan offers you a great way to learn how to develop and govern a real blockchain network. You can find the components that a network consists of, learn how to deploy and manage chaincode (also known as "smart contracts"), how to add channels (and to manage channel permissions), and track when a new block is generated, just as in a production network.
 - **_Want to act as multiple organizations to facilitate network development._**  
     Starter Plan enables you to act as multiple organizations, which allow you to see how the IBM Blockchain Platform (IBP) manages collaborative tasks like channel creation and chaincode instantiation, as well as testing applications and invoking transactions. You can also invite others to collaborate in a Starter Plan network (as in Enterprise plans).
 - **_Build demo solutions in a live network._**  
